@@ -1,0 +1,44 @@
+.anim
+{
+    /* animation:heartBeat 2s infinite !important; */
+    animation:heartBeat 2s infinite !important;
+}
+.navbar ul li 
+{
+display: inline-block;
+list-style: none;
+padding: 5px 25px;
+}
+.navbar a 
+{
+    list-style: none;
+    list-style-type: none;
+    text-decoration: none;
+    color: white !important;
+}
+
+.dropdown:hover .dropdown-menu
+{
+ display: block;   
+}
+.footer-navbar li
+{
+    text-decoration: none;
+    list-style: none;
+}
+.footer-navbar a 
+{
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+@media only screen   and (max-width:768px)
+{
+.navbar ul li 
+{
+display:block;
+list-style: none;
+padding: 5px 25px;
+}  
+}
