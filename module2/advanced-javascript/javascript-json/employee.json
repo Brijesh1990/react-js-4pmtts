@@ -1,0 +1,33 @@
+{
+"employee-details":[
+{
+"id":1001,
+"name":"brijesh",
+"age":35,
+"salary":78500,
+"address":"150 feet ring road rajkot"
+
+},
+
+{
+"id":1002,
+"name":"Deep",
+"age":38,
+"salary":78800,
+"address":"150 feet ring road rajkot"
+
+}
+
+],
+
+"users-details":[
+{
+"id":1002,
+"name":"Depesh",
+"age":38,
+"salary":78800,
+"address":"150 feet ring road rajkot"
+
+}
+]
+}
