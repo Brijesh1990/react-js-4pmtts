@@ -1,0 +1,32 @@
+<script>
+
+/*
+await is an keyword that is used to pause a async function to completed an operations.
+
+or 
+await is an keyword is used to paussed an async function untill the  promise return result.
+
+syntax :
+let a=await promise;
+
+
+*/
+
+let promise=new Promise(function(resolve,reject){
+    // set a time
+    setTimeout(function(){
+        resolve('Task is completed')},4000);
+});
+
+// defined async function
+async function Display()
+{ 
+    // await defined here
+let result=await promise;
+console.log(result);
+console.log('Hello')
+}
+Display();
+
+
+</script>
