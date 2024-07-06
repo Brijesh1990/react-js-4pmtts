@@ -84,8 +84,6 @@ editBtn.appendChild(document.createTextNode("Edit"));
 li.appendChild(delBtn);
 // add edit in ietems 
 li.appendChild(editBtn);
-
-
 }
 }
 // remove items 

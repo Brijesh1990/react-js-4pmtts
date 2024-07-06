@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    background-color: lightgray;
+}
+.google-map 
+{
+    width: 60%;
+    height: auto;
+    margin: auto;
+    background-color: aliceblue;
+    padding: 25px;
+    margin-top: 5%;
+}
