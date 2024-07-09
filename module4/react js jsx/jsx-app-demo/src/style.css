@@ -1,0 +1,22 @@
+h1 
+{
+   
+    margin: 0 0.5rem;
+    animation: bounce infinite; /* referring directly to the animation's @keyframe declaration */
+    animation-duration: 2s; /* don't forget to set a duration! */
+}
+
+.app 
+{
+    width: 50%;
+    height: auto;
+    margin: auto;
+
+}
+.txt-style 
+{
+    display: inline-block;
+    animation: heartBeat infinite;
+    animation-duration: 2s;
+    margin-left: 4%;
+}

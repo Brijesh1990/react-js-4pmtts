@@ -1,0 +1,38 @@
+body 
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+.reg-app 
+{
+    width: 50%;
+    height: auto;
+    margin: auto;
+    padding: 25px;
+    display: inline-block;
+    animation: backInDown alternate;
+    animation-duration: 2s;
+    margin-left: 25% !important;
+
+}
+.mobile 
+{
+    display: inline-block;
+    animation: flash infinite;
+    animation-duration: 3s;
+    margin-left: 3%;
+}
+/* .reg-app h1
+{
+    font-size: 45px;
+    display: inline-block;
+    animation: backInDown;
+    animation-duration: 2s;
+}
+.reg-app hr 
+{
+    animation: backInDown;
+    animation-duration: 2s;
+} */
