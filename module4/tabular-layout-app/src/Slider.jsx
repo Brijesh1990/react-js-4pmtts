@@ -8,7 +8,7 @@ class Slider extends Component
     {
         return(
              <>
-                <div className="slider">
+                <div className="slider" id="slide">
                   <img src={img1} alt="sliders" />
                   <img src={img2} alt="sliders" />
                   <img src={img3} alt="sliders" />
