@@ -1,0 +1,37 @@
+$bg-success:green;
+$bg-danger:coral;
+$text-white:white;
+$margin:auto;
+$padding:25px;
+$min-width:80%;
+$max-width:100%;
+$min-height:40vh;
+$max-height:100vh;
+$margin-top:4%;
+$text-center:center;
+$hr:solid 2px red;
+$fon-size:45px;
+$width-hr:20%;
+
+.app h1
+{
+text-align: $text-center;
+font-size: $fon-size;
+}
+.app hr 
+{
+    width: $width-hr;
+    border: $hr;
+
+}
+.app p 
+{
+    width: $min-width;
+    margin: $margin;
+    text-align: $text-center;
+}
+.fa-mobile
+{
+
+}
+

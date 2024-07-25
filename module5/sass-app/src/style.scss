@@ -1,0 +1,21 @@
+$bg-success:green;
+$bg-danger:coral;
+$text-white:white;
+$margin:auto;
+$padding:25px;
+$min-width:80%;
+$max-width:100%;
+$min-height:40vh;
+$max-height:100vh;
+$margin-top:4%;
+.app 
+{
+background-color: $bg-danger !important;
+color: $text-white !important;
+width: $min-width !important;
+height: $min-height !important;
+margin: $margin !important;
+padding: $padding !important;
+margin-top: $margin-top !important;
+}
+
