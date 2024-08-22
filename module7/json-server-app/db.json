@@ -1,0 +1,263 @@
+{
+    "feedback":[
+        {
+            "id":1,
+            "name":"brijesh",
+            "email":"brijesh@gmail.com",
+            "phone":912121212,
+            "subject":"24x7 customers support",
+            "message":"hi i am well"
+        },
+        {
+            "id":2,
+            "name":"rajesh",
+            "email":"rajesh@gmail.com",
+            "phone":912121212,
+            "subject":"24x7 customers support",
+            "message":"hi i am well"
+        }
+
+
+    ],
+    "contact":[
+        {
+            "id":1,
+            "name":"brijesh",
+            "email":"brijesh@gmail.com",
+            "phone":912121212,
+            "subject":"24x7 customers support",
+            "message":"hi i am well"
+        },
+        {
+            "id":2,
+            "name":"brijesh",
+            "email":"brijesh@gmail.com",
+            "phone":912121212,
+            "subject":"24x7 customers support",
+            "message":"hi i am well"
+        }
+
+
+
+    ],
+    "reviews":[
+
+        {
+            "id":1,
+            "name":"brijesh",
+            "email":"brijesh@gmail.com",
+            "phone":912121212,
+            "ratings":"4.5 star",
+            "comment":"good for tgraning"
+        },
+        {
+            "id":1,
+            "name":"kumar",
+            "email":"kumar@gmail.com",
+            "phone":912121212,
+            "ratings":"4.5 star",
+            "comment":"good for tgraning"
+        }
+
+    ],
+    "addcategory":[
+
+        {
+            "id":1,
+            "categoryname":"Mens shoes",
+            "added-date":"22/08/2024"
+        },
+        {
+            "id":2,
+            "categoryname":"Womens shoes",
+            "added-date":"22/08/2024"
+        },
+        {
+            "id":3,
+            "categoryname":"Kids shoes",
+            "added-date":"22/08/2024"
+        },
+        {
+            "id":4,
+            "categoryname":"Mens shirts",
+            "added-date":"22/08/2024"
+        }
+
+    ],
+    "add-subcategory":[
+
+        {
+            "id":1,
+            "categoryname":"Mens shoes",
+            "subcategoryname":"Mens Rebook shoes",
+            "added-date":"22/08/2024"
+        },
+
+        {
+            "id":2,
+            "categoryname":"Womens shoes",
+            "subcategoryname":"Womens Rebook shoes",
+            "added-date":"22/08/2024"
+        },
+        {
+            "id":3,
+            "categoryname":"Mens shoes",
+            "subcategoryname":"Kids Rebook shoes",
+            "added-date":"22/08/2024"
+        }
+
+    ],
+    "add-products":[
+
+        {
+            "id":1,
+            "categoryname":"Mens shoes",
+            "subcategoryname":"Mens Rebook shoes",
+            "ProductName":"Rebook sports mania",
+            "ProductImage":"https://images.jdmagicbox.com/quickquotes/images_main/reebok-men-s-classics-classic-leather-mu-shoes-white-primal-red-size-10-164383052-oc6a5.jpg",
+            "oldprice":6500,
+            "offerprice":4500,
+            "qty":1,
+            "descriptions":"Introducing Reeboks running shoes, designed for men who prioritize both style and functionality. Say hello to the perfect pair of shoes for all your active pursuits. Made with top-of-the-line rubber soles for unmatched grip, these green shoes serve as a reliable partner for all your runs. Experience the ultimate combination of comfort and stability with these lightweight shoes that make you look and feel good no matter where your journey takes you. Choose Reebok, your perfect running partner.",
+            "added-date":"22/08/2024"
+        },
+
+        {
+            "id":1,
+            "categoryname":"Mens shoes",
+            "subcategoryname":"Mens Rebook shoes",
+            "ProductName":"Rebook sports mania",
+            "ProductImage":"https://images.jdmagicbox.com/quickquotes/images_main/reebok-men-s-classics-classic-leather-mu-shoes-white-primal-red-size-10-164383052-oc6a5.jpg",
+            "oldprice":6500,
+            "offerprice":4500,
+            "qty":1,
+            "descriptions":"Introducing Reeboks running shoes, designed for men who prioritize both style and functionality. Say hello to the perfect pair of shoes for all your active pursuits. Made with top-of-the-line rubber soles for unmatched grip, these green shoes serve as a reliable partner for all your runs. Experience the ultimate combination of comfort and stability with these lightweight shoes that make you look and feel good no matter where your journey takes you. Choose Reebok, your perfect running partner.",
+            "added-date":"22/08/2024"
+        },
+
+        {
+            "id":1,
+            "categoryname":"Mens shoes",
+            "subcategoryname":"Mens Rebook shoes",
+            "ProductName":"Rebook sports mania",
+            "ProductImage":"https://images.jdmagicbox.com/quickquotes/images_main/reebok-men-s-classics-classic-leather-mu-shoes-white-primal-red-size-10-164383052-oc6a5.jpg",
+            "oldprice":6500,
+            "offerprice":4500,
+            "qty":1,
+            "descriptions":"Introducing Reeboks running shoes, designed for men who prioritize both style and functionality. Say hello to the perfect pair of shoes for all your active pursuits. Made with top-of-the-line rubber soles for unmatched grip, these green shoes serve as a reliable partner for all your runs. Experience the ultimate combination of comfort and stability with these lightweight shoes that make you look and feel good no matter where your journey takes you. Choose Reebok, your perfect running partner.",
+            "added-date":"22/08/2024"
+        },
+
+
+        {
+            "id":1,
+            "categoryname":"Mens shoes",
+            "subcategoryname":"Mens Rebook shoes",
+            "ProductName":"Rebook sports mania",
+            "ProductImage":"https://images.jdmagicbox.com/quickquotes/images_main/reebok-men-s-classics-classic-leather-mu-shoes-white-primal-red-size-10-164383052-oc6a5.jpg",
+            "oldprice":6500,
+            "offerprice":4500,
+            "qty":1,
+            "descriptions":"Introducing Reeboks running shoes, designed for men who prioritize both style and functionality. Say hello to the perfect pair of shoes for all your active pursuits. Made with top-of-the-line rubber soles for unmatched grip, these green shoes serve as a reliable partner for all your runs. Experience the ultimate combination of comfort and stability with these lightweight shoes that make you look and feel good no matter where your journey takes you. Choose Reebok, your perfect running partner.",
+            "added-date":"22/08/2024"
+        },
+
+
+        {
+            "id":1,
+            "categoryname":"Mens shoes",
+            "subcategoryname":"Mens Rebook shoes",
+            "ProductName":"Rebook sports mania",
+            "ProductImage":"https://images.jdmagicbox.com/quickquotes/images_main/reebok-men-s-classics-classic-leather-mu-shoes-white-primal-red-size-10-164383052-oc6a5.jpg",
+            "oldprice":6500,
+            "offerprice":4500,
+            "qty":1,
+            "descriptions":"Introducing Reeboks running shoes, designed for men who prioritize both style and functionality. Say hello to the perfect pair of shoes for all your active pursuits. Made with top-of-the-line rubber soles for unmatched grip, these green shoes serve as a reliable partner for all your runs. Experience the ultimate combination of comfort and stability with these lightweight shoes that make you look and feel good no matter where your journey takes you. Choose Reebok, your perfect running partner.",
+            "added-date":"22/08/2024"
+        }
+
+
+    ],
+    "cart":[
+        {
+            "id":1,
+            "categoryname":"Mens shoes",
+            "subcategoryname":"Mens Rebook shoes",
+            "ProductName":"Rebook sports mania",
+            "ProductImage":"https://images.jdmagicbox.com/quickquotes/images_main/reebok-men-s-classics-classic-leather-mu-shoes-white-primal-red-size-10-164383052-oc6a5.jpg",
+            "oldprice":6500,
+            "offerprice":4500,
+            "qty":1,
+            "subtotal":4500,
+            "customername":"brijesh kumar pandey",
+            "added-date":"22/08/2024"
+        },
+        {
+            "id":1,
+            "categoryname":"Mens shoes",
+            "subcategoryname":"Mens Rebook shoes",
+            "ProductName":"Rebook sports mania",
+            "ProductImage":"https://images.jdmagicbox.com/quickquotes/images_main/reebok-men-s-classics-classic-leather-mu-shoes-white-primal-red-size-10-164383052-oc6a5.jpg",
+            "oldprice":6500,
+            "offerprice":4500,
+            "qty":1,
+            "subtotal":4500,
+            "customername":"brijesh kumar pandey",
+            "added-date":"22/08/2024"
+        }
+
+    ],
+    "order":[
+
+        {
+            "id":1,
+            "ProductName":"Rebook sports mania",
+            "qty":1,
+            "subtotal":4500,
+            "customername":"brijesh kumar pandey",
+            "order-date":"22/08/2024"
+        }
+
+    ],
+    "customer":[
+
+        {
+            "id":1,
+            "customername":"brijesh kumar pandey",
+            "email":"bkpandey@gmail.com",
+            "password":"brijesh$$454",
+            "phone":9998003879,
+            "address":"150 feet ring road rajkot",
+            "added-date":"22/08/2024"
+        },
+        
+        {
+            "id":2,
+            "customername":"Rajesh kumar pandey",
+            "email":"rajesh@gmail.com",
+            "password":"brijesh$$454",
+            "phone":9998003879,
+            "address":"150 feet ring road rajkot",
+            "added-date":"22/08/2024"
+        }
+
+
+    ],
+    "bill":[
+        {
+            "id":1,
+            "customername":"brijesh kumar pandey",
+            "phone":9998003879,
+            "ProductName":"Rebbok sports mania",
+            "qty":1,
+            "subtotal":4500,
+            "ordercode":"545362535124",
+            "address":"150 feet ring road rajkot",
+            "order-date":"22/08/2024"
+        }
+
+
+    ]
+    
+
+}
